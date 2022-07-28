@@ -1,0 +1,104 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Lobster&family=Racing+Sans+One&display=swap'); */
+/* first section , main div*/
+.topblock{
+    width: 1088px;
+    margin:  82px auto 0;
+
+}
+.titlerestaurant{
+    width: 92px;
+    color: #5863F8;
+    font-size: 40px;
+    margin-bottom: 1px;
+    font-family: 'Dongle', sans-serif;
+}
+.description1{
+    font-size: 30px;
+    width: 700px;
+    font-family: 'DejaVu Sans Condensed Oblique';
+}
+/* first div for food */
+.food{
+    margin-top: 50px;
+    display: inline-block;
+    width: 536px;
+    height: 190px;
+    background-color: #707070;
+}
+
+/*small div*/
+.texts{
+    vertical-align: middle;
+    display: inline-block;
+    width: 260px;
+    padding-top: 37px;
+    padding-right: 92px;
+    padding-bottom: 36px;
+    padding-left: 16px;
+    margin-left: 16px;
+    
+}
+.fooddesertpicture{
+    vertical-align: middle;
+}
+.h3first{
+    font-size: 14px;
+    color: #5863F8;
+    font-family: 'Roboto';
+}
+.h3second{
+    width: 193px ;
+    font-size:18px ;
+    color: #000000;
+    margin-bottom: 10px;
+    font-family: "BPG Nino Elite Round Cond", sans-serif;
+}
+.pfooddesert{
+    width: 260px;
+    font-size:14px ;
+    color: #B1B1B1;
+}
+/* second div for desert */
+.desert{
+    margin-left: 16px;
+    display: inline-block;
+    width: 536px;
+    height: 190px;
+    background-color: #BE2B2B;
+ 
+
+}
+/* second section*/
+.bottomblock{
+    width: 1088px;
+    margin: 102px  auto 154px;
+}
+
+/*first div*/
+.threeblocks{
+    display: inline-block;
+    background-color: #707070;
+    margin-top: 65px;
+    display: inline-block;
+    width: 352px;
+
+}
+.margin1{
+    margin-left: 16px;
+}
+
+.texts2{
+    vertical-align: auto;
+    width: 260px;
+    margin:  23px 46px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
